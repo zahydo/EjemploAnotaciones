@@ -4,7 +4,6 @@
   <li>Caso de uso de anotaciones en las fases de: 
     <ul>
       <li>Edición del código fuente.</li>
-      <li>Compilación del código fuente.</li>
       <li>Ejecución del código fuente.</li>
     </ul>
   </li>
